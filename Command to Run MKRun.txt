@@ -1,0 +1,3 @@
+cd "%localappdata%\Android\sdk\tools"
+
+monkeyrunner.bat -v ALL "%HOMEPATH%\Documents\CS Backups\Software Validation\project\testContacts.py" > "%HOMEPATH%\Desktop\logout.txt" 2>&1
